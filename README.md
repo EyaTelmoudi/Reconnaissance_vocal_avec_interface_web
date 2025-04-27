@@ -43,7 +43,7 @@ Démarrez votre serveur Node.js avec :
 node server.js
 
 
- Utilisation
+## Utilisation
 Ouvrez votre navigateur à l'adresse :
 
 http://localhost:3000
@@ -52,14 +52,14 @@ Cliquez sur le bouton "Micro" 🎤.
 Parlez, et votre message sera reconnu et affiché !
 
 
-Technologies utilisées
+## Technologies utilisées
 Node.js
 
 Vosk Speech Recognition API
 
 HTML / CSS / JavaScript (Frontend)
 
-Remarques importantes
+## Remarques importantes
 Ce projet fonctionne uniquement en local pour des raisons de permissions du micro.
 
 Utilisez Google Chrome pour éviter des problèmes d'accès au microphone.
@@ -67,7 +67,7 @@ Utilisez Google Chrome pour éviter des problèmes d'accès au microphone.
 La qualité de la reconnaissance dépend de la clarté de votre voix et du bruit ambiant.
 
 
-Auteur
+## Auteur
 [Aya Telmoudi]
 
 
